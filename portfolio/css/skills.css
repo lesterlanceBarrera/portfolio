@@ -1,0 +1,21 @@
+#skills {
+    padding: 7% 0 8% 0;
+}
+
+#skills h1 {
+    text-align: center;
+}
+
+.imageAbout {
+    text-align: center;
+    /* padding: 5%; */
+    color: #EAE3D2;
+}
+
+.imageAbout p {
+    font-size: 1.6rem;
+    font-family: 'Oswald', sans-serif;
+    color: #EAE3D2;
+}
+
+

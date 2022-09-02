@@ -1,0 +1,34 @@
+#project {
+    padding: 7% 0 8% 0;
+}
+
+#project h1 {
+    text-align: center;
+}
+.projTitle {
+    text-align: center;
+}
+
+.codeStack {
+    color: #EF5B0C;
+    padding: 2%;
+    text-align: center;
+    display: flex;
+    
+}
+
+.codeStackContent {
+    padding: 3%;
+}
+
+.projPic {
+    padding: 1%;
+    text-align: center;
+    transition: transform .2s;
+    filter: drop-shadow(10px 10px 10px #EF5B0C);
+}
+
+.projPic:hover {
+    transform: scale(1.2);
+}
+

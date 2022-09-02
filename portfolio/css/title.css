@@ -1,0 +1,57 @@
+.navbar {
+    background-color: #1B2430;
+    padding: 3% 10%;
+}
+
+.navbar a {
+    color: #EAE3D2;
+}
+
+.navbar a:hover{
+    color: #EF5B0C;
+    text-decoration: underline;
+}
+
+.navbar-brand {
+    font-family: 'Michroma', sans-serif;
+    font-size: 3rem;
+}
+
+.navbar-brand:hover{
+    color: #EF5B0C;
+}
+
+.nav-item{
+    font-family: 'Michroma', sans-serif;
+    font-size: 1.5rem;
+    padding: 2%;
+}
+
+/* .container-fluid {
+    width: 100%;
+} */
+
+.centerText {
+    height: 10vh;
+    width: 100%;
+    background-color: #1B2430;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    margin-top: 2%;
+}
+
+#title {
+    font-family: 'Michroma', sans-serif;
+    color: #EAE3D2;
+    text-align: center;
+    padding: 10% 0 15% 0;
+
+}
+
+.auto-type { 
+    color: #EF5B0C;
+}

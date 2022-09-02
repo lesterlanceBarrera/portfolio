@@ -1,0 +1,31 @@
+#techStack {
+    background-color: #EAE3D2;
+    padding: 2% 0 2% 0;
+}
+
+.skillPic {
+    padding: 1%;
+    text-align: center;
+    transition: transform .2s;
+}
+.skillPic:hover {
+    transform: scale(1.5);
+}
+.technicalSkills{
+    text-align: center;
+}
+
+/* .row {
+    text-align: center;
+} */
+
+.row h3 {
+    color: #EF5B0C;
+    padding: 2%;
+    font-family: 'Oswald', sans-serif;
+    /* text-align: center; */
+}
+
+.tools {
+    text-align: center;
+}

@@ -1,0 +1,54 @@
+.me {
+    color:#EF5B0C;
+}
+
+.aboutTitle{
+    font-family: 'Michroma', sans-serif;
+    text-align: center;
+    padding: 3%;
+}
+.profilePic {
+    margin: 3%;
+}
+
+.row {
+    padding: 3% 15%;
+    width: 100%;
+}
+.auto-type2 {
+    color:#EF5B0C;
+}
+.aboutMeContent {
+    /* padding: 3%; */
+    padding-top: 40px;
+    padding-left: 1.8%;
+    
+}
+
+.aboutMeContent h5 {
+    font-size: 1.5rem;
+}
+
+.aboutInfo h3 {
+    font-size: 3rem;
+}
+
+#about {
+    font-family: 'Kanit', sans-serif;
+    background-color: #EAE3D2;
+    color: #1B2430;
+    padding: 2% 0 10% 0;
+
+}
+
+#about h1 {
+    text-align: center;
+}
+.imgAbout {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    width:450px;
+}
+

@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1B2430;
+}
+
+h1 {
+    font-family: 'Michroma', sans-serif;
+}
+
+@media (max-width: 991px) {
+
+    .nav-item {
+        text-align: center;
+    }
+   
+}
+
+@media (max-width: 320px) {
+
+    .aboutImg {
+        height: 1050px;
+        width: 100px; 
+    }
+   
+}
+/* #info {
+
+    text-align: center;
+    color: #EAE3D2;
+} */
+
+
+
+
